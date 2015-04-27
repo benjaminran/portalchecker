@@ -1,6 +1,7 @@
 portalchecker.config
 portalchecker.messagehistory
 portalchecker.chargehistory
+portalchecker.log
 .settings
 .metadata
 .project
